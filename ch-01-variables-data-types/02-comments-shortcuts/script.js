@@ -11,7 +11,7 @@
 - CMD + SHIFT + O = Find a file
 - CMD + OPT + F = Search for key words in different files
 - CMD + B = Toggle sidebar
-- CMD + ~ = Toggle terminal
+- CTRL + ~ = Toggle terminal
 */
 
 // This is a single line of code
